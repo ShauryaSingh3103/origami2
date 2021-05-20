@@ -1,0 +1,54 @@
+
+h1{
+    color: rgb(168, 0, 0);
+}
+
+
+  
+body{
+background-color: wheat;
+    }
+    .header{
+        background-color: peachpuff;
+    }
+    .dog a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+     
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .fish a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .frog a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .crane a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        border: solid;
+        border-color: rgb(168, 0, 0);
+        border-radius: 2mm;
+    }
+    .header a{
+        border: solid;
+        
+        border-radius: 2mm; 
+    }
